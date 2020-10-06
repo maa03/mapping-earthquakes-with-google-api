@@ -1,0 +1,21 @@
+#map-container{
+    width: 80%;
+    height: 400px;
+    background-color: grey;
+    margin: 0 auto 0 auto;
+}
+#table-container{
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+.my-custom-scrollbar {
+    position: relative;
+    height: 350px;
+    overflow: auto;
+}
+thead{
+    position: sticky;
+    top: 0;
+}
